@@ -1,0 +1,161 @@
+{
+  "device": [
+    {
+      "resourceId": "{2aa54864-e077-5787-22cc-75246dba3dde}",
+      "name": "IB9365-LPR-W",
+      "users": [
+        "User2",
+        "iliu@networkoptix.com",
+        "User6",
+        "admin"
+      ]
+    },
+    {
+      "resourceId": "{675411f3-94b4-6825-594b-1e4fe4d8ad6d}",
+      "name": "DS-2CD3T87G2P-LSU/SL",
+      "users": [
+        "User2",
+        "iliu@networkoptix.com",
+        "User6",
+        "admin",
+        "awen@networkoptix.com"
+      ]
+    },
+    {
+      "resourceId": "{8ab3d8a9-3f06-d661-04d2-f4253ff0be93}",
+      "name": "PNV-A9081R",
+      "users": [
+        "User2",
+        "iliu@networkoptix.com",
+        "User6",
+        "admin"
+      ]
+    },
+    {
+      "resourceId": "{a04a3916-55c5-bd32-c122-02ff9edbdcca}",
+      "name": "iDS-2CD7A26G0-IZHS",
+      "users": [
+        "User2",
+        "iliu@networkoptix.com",
+        "User6",
+        "admin"
+      ]
+    },
+    {
+      "resourceId": "{ab503f32-260b-3a58-492d-57c5bd72ca58}",
+      "name": "FD9389-EHV-V2",
+      "users": [
+        "User2",
+        "iliu@networkoptix.com",
+        "User6",
+        "admin"
+      ]
+    },
+    {
+      "resourceId": "{e8954391-a2a9-2eeb-3a40-d070ce59547c}",
+      "name": "iDS-2CD7A45G0-IZHS",
+      "users": [
+        "User2",
+        "iliu@networkoptix.com",
+        "User6",
+        "admin"
+      ]
+    },
+    {
+      "resourceId": "{ecc72419-5249-e4f3-b47a-b550bde9b74a}",
+      "name": "XND-9083RV",
+      "users": [
+        "User2",
+        "User3",
+        "iliu@networkoptix.com",
+        "User6",
+        "admin"
+      ]
+    },
+    {
+      "resourceId": "{ef40789a-988b-2750-28df-1b516f4b1bf5}",
+      "name": "FE9191-H-V2",
+      "users": [
+        "User2",
+        "User3",
+        "iliu@networkoptix.com",
+        "User6",
+        "admin",
+        "User5",
+        "User1",
+        "awen@networkoptix.com"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "resourceId": "{1898dc42-5f69-4b51-ad8a-e3a388662e1b}",
+      "name": "New Layout",
+      "users": [
+        "User2",
+        "User3",
+        "iliu@networkoptix.com",
+        "User6",
+        "admin",
+        "User5",
+        "User1",
+        "awen@networkoptix.com"
+      ]
+    }
+  ],
+  "webPages": [
+    {
+      "resourceId": "{73d24b22-ab8a-9878-cde6-e9c1e6eccbce}",
+      "name": "Support",
+      "users": [
+        "User2",
+        "User3",
+        "iliu@networkoptix.com",
+        "User6",
+        "admin",
+        "User5",
+        "User1"
+      ]
+    },
+    {
+      "resourceId": "{799abd1a-b160-c164-e334-9ee9d3dd36db}",
+      "name": "Home Page",
+      "users": [
+        "User2",
+        "User3",
+        "iliu@networkoptix.com",
+        "User6",
+        "admin",
+        "User5",
+        "User1",
+        "awen@networkoptix.com"
+      ]
+    }
+  ],
+  "serverHealth": [
+    {
+      "resourceId": "{e2aaa763-1ba8-7214-43c3-d3cdde93fd80}",
+      "name": "TOSHIBA",
+      "users": [
+        "User2",
+        "iliu@networkoptix.com",
+        "User6",
+        "admin"
+      ]
+    },
+    {
+      "resourceId": "{fed4ef55-71e1-2d9f-1d07-f2f9b547ad10}",
+      "name": "ASUS",
+      "users": [
+        "User2",
+        "User3",
+        "iliu@networkoptix.com",
+        "User6",
+        "admin",
+        "User5",
+        "User1",
+        "awen@networkoptix.com"
+      ]
+    }
+  ]
+}
